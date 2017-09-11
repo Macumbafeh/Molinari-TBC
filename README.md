@@ -6,7 +6,7 @@ This AddOn is a Backport of the AddOn [Molinari](https://github.com/p3lim-wow/Mo
 
 Molinari was made to aid the player in processing various items throughout the game.  
 As an example:  
- >> when you'd want to prospect ores, you would normally cast [Prospecting](http://wowhead.com/spell=31252) and then click the item in your bags.  
+> when you'd want to prospect ores, you would normally cast [Prospecting](http://wowhead.com/spell=31252) and then click the item in your bags.  
 With Molinari, you simply hold down the `Alt` key and click the item directly.
 
 The following spells/processes are supported:
